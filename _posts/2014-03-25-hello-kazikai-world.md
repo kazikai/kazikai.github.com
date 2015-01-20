@@ -5,6 +5,7 @@ description: ""
 category:
 tags: []
 ---
+{% include JB/setup %}
 아아아아아
 
 테스트
